@@ -36,3 +36,13 @@ the interact.js file contains the code to interact with the blockchain, which in
 ```bash
 node interact.js
 ```
+
+# Prototype
+
+<p align="center">
+  <img src="https://i.imgur.com/iDdYE5m.png" width="170" title="hover text">
+  <img src="https://i.imgur.com/NVFgqAX.png" width="170" alt="accessibility text">
+  <img src="https://i.imgur.com/igafcHS.png" width="170" alt="accessibility text">
+  <img src="https://i.imgur.com/0TIyagZ.png" width="170" alt="accessibility text">
+  <img src="https://i.imgur.com/paOMj4O.png" width="170" alt="accessibility text">
+</p>
