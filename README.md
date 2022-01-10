@@ -6,19 +6,33 @@ Our platform therefore makes it possible to take the current process of voting i
 This project was made using a smart contract in Solidity which facilitates Voting online on Celo in 158 lines of code.
 Our contract will be able to create Elections, let people participate in them, and vote for the right candidate. 
 
-## Installation
+# Dependencies
+
+* NPM: https://nodejs.org
+* Truffle: https://github.com/trufflesuite/truffle
+
+## Step 1. Clone the project
 
 ```bash
+git clone https://github.com/salimhammadi15/Voters
+```
+
+## Step 2. Install dependencies
+
+```bash
+cd VOTErs
 npm install
 ```
-or 
 
-```bash
-yarn install
-```
-
-## Compile 
+### Compile 
 
 ```bash
 truffle compile
+```
+
+## Step 3. run Interact.js 
+the interact.js file contains the code to interact with the blockchain, which includes : Creating election, add a candidate, vote
+
+```bash
+node interact.js
 ```
